@@ -64,13 +64,13 @@ global.message = {
 
 module.exports = {
   botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
+  author: process.env.Author || "@PBishara",
   packname: process.env.PackName || "Queen Anya v2 MD",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
-  prefa: process.env.Prefix || [','],
+  footer: process.env.Footer || "© Prime Bishara",
+  prefa: process.env.Prefix || ['/'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
+  ownername: process.env.Owner_Name || "Prime~Bishara",
   ownernumber: process.env.Owner_Number || "2349150212473",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
@@ -106,13 +106,13 @@ module.exports = {
 
 // Ignore them 👇🏻
 global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
+global.author = process.env.Author || "@PBishara" 
 global.packname = process.env.PackName || "Queen Anya v2 MD" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "© Prime Bishara" 
 global.prefa = process.env.Prefix || [','] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
+global.ownername = process.env.Owner_Name || "Prime~Bishara" 
 global.ownernumber = process.env.Owner_Number || "2349150212473" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
